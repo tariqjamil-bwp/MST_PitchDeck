@@ -1,0 +1,6 @@
+ipykernel==6.29.5
+latex==0.7.0
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
+pandas==2.2.3
+streamlit==1.41.1
