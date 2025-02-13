@@ -9,7 +9,7 @@ Cclass = 5          # Classes per student per semester
 
 # Updated Student projections (Q2 and Q4 Labels)
 student_projection = {
-    "Q2-2025": 500, "Q4-2025": 10000,
+    "Q2-2025": 500, "Q4-2025": 1000,
     "Q2-2026": 3000, "Q4-2026": 6000,
     "Q2-2027": 10000, "Q4-2027": 20000,
     "Q2-2028": 40000, "Q4-2028": 70000,
