@@ -9,11 +9,10 @@ Cclass = 5          # Classes per student per semester
 
 # Updated Student projections (Q2 and Q4 Labels)
 student_projection = {
-    "Q2-2025": 500, "Q4-2025": 1000,
-    "Q2-2026": 3000, "Q4-2026": 6000,
-    "Q2-2027": 10000, "Q4-2027": 20000,
-    "Q2-2028": 40000, "Q4-2028": 70000,
-    "Q2-2029": 100000, "Q4-2029": 150000
+    "Y1 (1H) (Beta)": 500, "Y1 (2H)": 2000, 
+    "Y2 (1H)": 5000, "Y2 (2H)": 10000,
+    "Y3 (1H)": 20000, "Y3 (2H)": 40000,
+    "Y4 (1H)": 60000, "Y4 (2H)": 100000
 }
 
 years = list(student_projection.keys())
